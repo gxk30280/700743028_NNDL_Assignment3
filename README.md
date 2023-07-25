@@ -4,7 +4,7 @@ Name: Ganesh Kumar Kokkera
 
 ID #: 700743028
 
-Video link: https://drive.google.com/file/d/1x1SK7jgB9yLtNhrrpefL58Dp90l9LYUc/view?usp=sharing
+Video link: https://drive.google.com/file/d/1SCupRmQmmQqNJp-hnbhLgFnXMs2LAiHd/view?usp=sharing 
 
 Image classification with CNN. Use Case Description: Image Classification with CNN
 
